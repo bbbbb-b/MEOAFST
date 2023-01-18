@@ -1,4 +1,4 @@
-name: DeepStuff
+name: EAFST
 channels:
   - rdkit
   - defaults
